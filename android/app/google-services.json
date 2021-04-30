@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "32268616950",
+    "project_id": "hacknsut-6c1cd",
+    "storage_bucket": "hacknsut-6c1cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32268616950:android:8420a286740332a5fc58d7",
+        "android_client_info": {
+          "package_name": "com.example.yogaguru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32268616950-t1q66f4vdj0ldkoc31lssv6kqc4unnam.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yogaguru",
+            "certificate_hash": "65a5da71b40800ef93720aa44834bd0b2623e0e6"
+          }
+        },
+        {
+          "client_id": "32268616950-qjk2ko2l8acm809gs9m581q9jblo1j3p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7oxLE-NeqwrQeAu3_pKBqMO8WptF7icA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32268616950-qjk2ko2l8acm809gs9m581q9jblo1j3p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
