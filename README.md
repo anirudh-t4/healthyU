@@ -42,7 +42,7 @@ _The most challenging tasks we faced for this project were tflite implementation
 
 ### Screenshots/Demo Video
 
-<img src="https://github.com/anirudh-t4/wHACKiest2021_USELESS_DEVELOPERS/blob/main/images/IMG-20210404-WA0004.jpg" width="250" title="hover text">
+<img src="https://github.com/anirudh-t4/healthyU/blob/main/icon.jpg" width="250" title="hover text">
 
 <img src="https://github.com/anirudh-t4/wHACKiest2021_USELESS_DEVELOPERS/blob/main/images/IMG-20210404-WA0005.jpg" width="250" title="hover text">
 
@@ -50,7 +50,9 @@ _The most challenging tasks we faced for this project were tflite implementation
 <img src="https://github.com/anirudh-t4/wHACKiest2021_USELESS_DEVELOPERS/blob/main/images/medicine.jpeg" width="250" title="hover text">
 <img src="https://github.com/anirudh-t4/wHACKiest2021_USELESS_DEVELOPERS/blob/main/images/lungs.jpeg" width="250" title="hover text">
 <img src="https://github.com/anirudh-t4/wHACKiest2021_USELESS_DEVELOPERS/blob/main/images/body.jpeg" width="250" title="hover text">
-
+<img src="https://github.com/anirudh-t4/healthyU/blob/main/resources.jfif" width="250" title="hover text">
+<img src="https://github.com/anirudh-t4/healthyU/blob/main/daily%20tracker.jfif" width="250" title="hover text">
+<img src="https://github.com/anirudh-t4/healthyU/blob/main/bp.jfif" width="250" title="hover text">
 
 
 
