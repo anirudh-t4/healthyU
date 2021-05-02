@@ -1,19 +1,19 @@
-# BU HACK 2021- Submission Report Format
 
-This is the official code repository for _Useless Developers_ . This _simple, light weight mobile application built in Flutter_ was developed during BU HACK 2021 
-the online hackathon.
+
+This is the official code repository for _Useless Developers_ . This _simple, light weight mobile application built in Flutter_ 
+
 
 ### _Useless Developers_
 
 * _Utkarsh Agarwal_
 * _Anirudh Tiwari_
-* _Shruti Bucha_
 
-### _Healthify_ _- Pharmacy in your hands_
 
-[Demo video link](https://drive.google.com/file/d/1i7wqK5IXuEcN0IbifGzsHXqsMElznIF1/view?usp=drivesdk)
+### _HealthyU_ _- Pharmacy in your hands_
 
-[Presentation of our idea](https://drive.google.com/file/d/1hRNxdmlwZwYbBz6V-dqz-KZw_XUlJnCv/view?usp=sharing)
+[Demo video link](https://youtu.be/2fWXAepbfxw)
+
+[Presentation of our idea](https://drive.google.com/file/d/1nxQ0q72_LP4SI4zJif3Qpma7olP9sbrg/view?usp=sharing)
 
 
 
@@ -23,7 +23,7 @@ _Joyce Meyer said, “I believe that the greatest gift you can give to your fami
 
 _If a person stays healthy physically, he will stay healthy mentally too. Physical and mental health is linked fundamentally. If we are able to keep our body fit and healthy by taking the right food and doing physical activates regularly, our body will definitely help us to deal with daily stress._ 
 
-_Keeping in mind above points we have decided to make Healthician .Healthify is focused to cover almost all aspects related to Healthcare in a single app.Healthician has 8_ _categories which relate to covid detection through lung x-ray, Yoga posture correction, Doctor Patient interaction, BMI calculation, Donate, Symptoms Detector , Medicine_ _Reminder and Mental Health_
+_Keeping in mind above points we have decided to make Healthyu .HealthyU is focused to cover almost all aspects related to Healthcare in a single app.HealthyU has 10_ _categories which relate to covid detection through lung x-ray, Yoga posture correction, Doctor Patient interaction, BMI calculation, Donate, Symptoms Detector , Medicine_ _Reminder , Covid resources , 14-day self tracker and BP measuring using camera and flash.
 
 ### _Challenges we ran into_
 _The most challenging tasks we faced for this project were tflite implementation,using posnet technology to detect the poses,using dialog flow using infermedica api and flutter_ _animations and as well as integrating push notifications was a toil_.
