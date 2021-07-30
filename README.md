@@ -7,6 +7,7 @@ This is the official code repository for _Useless Developers_ . This _simple, li
 
 * _Utkarsh Agarwal_
 * _Anirudh Tiwari_
+* _Shruti Buchha_
 
 
 ### _HealthyU_ _- Pharmacy in your hands_
